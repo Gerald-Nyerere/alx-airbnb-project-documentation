@@ -42,8 +42,3 @@ The following diagram shows all major modules and functionalities:
 ### 8. Admin Dashboard
 - Manage Users, Listings, Bookings, Payments
 
----
-
-**File Generated:** `features-diagram.png`
-
-**Repository:** `alx-airbnb-project-documentation`
